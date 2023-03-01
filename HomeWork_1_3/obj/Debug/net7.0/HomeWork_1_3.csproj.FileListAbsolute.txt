@@ -1,0 +1,15 @@
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\bin\Debug\net7.0\HomeWork_1_3.exe
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\bin\Debug\net7.0\HomeWork_1_3.deps.json
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\bin\Debug\net7.0\HomeWork_1_3.runtimeconfig.json
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\bin\Debug\net7.0\HomeWork_1_3.dll
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\bin\Debug\net7.0\HomeWork_1_3.pdb
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.csproj.AssemblyReference.cache
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.AssemblyInfoInputs.cache
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.AssemblyInfo.cs
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.csproj.CoreCompileInputs.cache
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.dll
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\refint\HomeWork_1_3.dll
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.pdb
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\HomeWork_1_3.genruntimeconfig.cache
+C:\Users\monaque\Desktop\C#\HomeWork_1\HomeWork_1_3\obj\Debug\net7.0\ref\HomeWork_1_3.dll
